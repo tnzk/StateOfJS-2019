@@ -1,7 +1,7 @@
 ---
-type:   introduction
-page:   front_end_frameworks
+type:   はじめに
+page:   フロントエンドのフレームワーク
 locale: ja-JP
 ---
 
-Front-end frameworks and libraries.
+フロントエンドのフレームワークとライブラリ。

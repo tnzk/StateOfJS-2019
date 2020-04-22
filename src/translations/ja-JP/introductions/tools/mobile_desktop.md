@@ -1,7 +1,7 @@
 ---
-type:   introduction
-page:   mobile_desktop
+type:   はじめに
+page:   モバイル、デスクトップ
 locale: ja-JP
 ---
 
-JavaScript for mobile devices and desktop apps
+モバイルデバイスおよびデスクトップアプリ用のJavaScript
