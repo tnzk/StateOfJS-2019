@@ -4,4 +4,4 @@ page:   バックエンドのフレームワーク
 locale: ja-JP
 ---
 
-サーバー上のJavaScript。
+サーバーサイドにおけるJavaScript。
