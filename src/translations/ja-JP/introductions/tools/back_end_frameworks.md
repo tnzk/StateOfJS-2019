@@ -1,7 +1,7 @@
 ---
-type:   introduction
-page:   back_end_frameworks
+type:   はじめに
+page:   バックエンドのフレームワーク
 locale: ja-JP
 ---
 
-JavaScript on the server.
+サーバーサイドにおけるJavaScript。

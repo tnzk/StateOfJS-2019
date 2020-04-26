@@ -1,7 +1,7 @@
 ---
-type:   introduction
-page:   javascript_flavors
+type:   はじめに
+page:   JavaScriptのフレーバー
 locale: ja-JP
 ---
 
-Languages that compile to JavaScript
+JavaScriptにコンパイルされる言語

@@ -1,7 +1,7 @@
 ---
-type:   introduction
-page:   data_layer
+type:   はじめに
+page:   データ層
 locale: ja-JP
 ---
 
-Loading and managing data in your app.
+アプリでのデータの読み込みと管理。
