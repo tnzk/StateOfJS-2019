@@ -4,35 +4,36 @@ page: introduction
 locale: ja-JP
 ---
 
-<span class="first-letter">W</span>e were pretty sure 2018 would be the last time we did this survey. After all, the JavaScript ecosystem can’t very well keep changing *again*, can it?
+<span class="first-letter">2</span>018年の調査が最後の調査になる、私たちはそう確信していました。JavaScript界隈のエコシステムも、さすがにそこまで変化し続けることはないはずですよね。
 
-But what do you know, turns out JavaScript isn’t quite done changing just yet! And so after over 21,717 respondents took this year's survey we had to dig up our components and charts, curse us-from-a-year-ago for writing such crappy code, and get to work digging through the data. 
+しかしご存知の通り、JavaScriptの変化はまだ終わってはいませんでした。21,717名の回答者が今年のサーベイに回答した後、私たちはコンポーネントやグラフを掘り返す必要に迫られ、手抜きコードを書いた1年前の私たちを呪いながら、データを調べる作業に取り掛かりました。
 
-We had some help though. The amazing [Amelia Wattenberger](http://wattenberger.com/) joined the team as a guest dataviz expert to contribute a fresh new look on our data, and you’ll be able to explore her work in the **Overview** section.
+一方、いくらかの助けもありました。[Amelia Wattenberger](http://wattenberger.com/)がデータ可視化の専門家としてチームにゲスト参加し、グラフの見栄えを一新してくれました。**概要**セクションで見ることができます。
 
-We also borrowed a couple new visualisations from the State of JS's sister survey, the [State of CSS](https://2019.stateofcss.com/). We recommend checking it out if you haven’t done so yet!
+また、いくつかの可視化手法を、姉妹プロジェクトである[State of CSS](https://2019.stateofcss.com/)から借りました。もし見たことがなければ、ぜひご覧になってください。
 
-### Team
+### チーム
 
-The State of JavaScript Survey is created and maintained by:
 
-- [Sacha Greif](https://twitter.com/sachagreif) (me!): Design, writing, coding
-- [Raphaël Benitte](https://twitter.com/benitteraphael): Data analysis, data visualizations
+サーベイ "The State of Javascript" は、次のメンバーで創始し、管理しています。
 
-Be sure to check out my React/GraphQL JavaScript framework, [Vulcan.js](http://vulcanjs.org), as well as Raphaël's React data visualization library [nivo](https://nivo.rocks).
+- [Sacha Greif](https://twitter.com/sachagreif) (筆者): デザイン、ライティング、コーディング
+- [Raphaël Benitte](https://twitter.com/benitteraphael): データ分析、データ可視化
 
-### Download Our Data
+Be sure to check out my React/GraphQL JavaScript framework, 筆者が開発した React/GraphQL フレームワークである[Vulcan.js](http://vulcanjs.org)と、 Raphaël が開発した React 向けデータ可視化ライブラリ [nivo](https://nivo.rocks)もお忘れなく。
 
-You can [download the raw JSON data for this survey](https://www.kaggle.com/sachag/state-of-js-2019). Let us know if you end up making your own data visualizations!
+### データのダウンロード
+
+[このサーベイで用いた生JSONデータをダウンロード](https://www.kaggle.com/sachag/state-of-js-2019)できます。ご自身でデータ可視化を作成したら、ぜひ教えてください！
 
 ### Completion Percentages
 
-Because all survey questions could be skipped, some questions ended up with fewer answers than others. So we've added a small pie chart indicator to each question to let you know which proportion of total respondents answered it.  
+アンケートの全設問はスキップ可能としたので、設問によって回答数が多いものと少ないものとがあります。そこで、全回答者のうちどのくらいの割合がその設問に回答したのかがわかるよう、各設問に小さな円グラフを設置しました。
 
-### Credits & Stuff
+### 謝辞
 
-The site is set in IBM Plex Mono. Questions? Feedback? [Get in touch!](mailto:hello@stateofjs.com)
+サイト上のテキストにはIBM Plex Monoを使用しています。[質問・フィードバックはこちらまで](mailto:hello@stateofjs.com)。
 
-And now, let's see what JavaScript has been up to this year!
+さて、この1年の JavaScript がどうなったか、見ていきましょう！
 
 <span class="conclusion__byline">– Sacha and Raphaël</span>
