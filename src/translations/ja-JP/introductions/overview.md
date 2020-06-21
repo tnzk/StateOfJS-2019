@@ -4,4 +4,5 @@ page: overview
 locale: ja-JP
 ---
 
-Before digging deep in the details, let's take a moment to take in a bigger-picture overview of the JavaScript ecosystem in 2019 courtesy of the talented [Amelia Wattenberger](https://wattenberger.com/), our guest data visualization expert!
+詳細を掘り下げる前に、2019 年の JavaScript のエコシステムの全体像をみてみましょう。
+(ゲストデータの可視化のエキスパートであり才能ある[Amelia Wattenberger](https://wattenberger.com/)氏のご厚意によるものです！)
